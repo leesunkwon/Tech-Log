@@ -1,7 +1,8 @@
 # Google ARTEMIS - 자연어 지시 기반 안드로이드 E2E 자동화 에이전트 프레임워크
 
 > **작성일:** 2026-09-26  
-> **작성자 / 리뷰어:** Tech Lead / Mobile & QA Architect  
+> **작성자 / 리뷰어:** 이선권 / Android·AI
+> 
 > **기술 분류:** `AI/ML` | `Mobile` | `Infra/DevOps`  
 > **태그:** `#Android` `#TestAutomation` `#VLM` `#Agent` `#MCP` `#E2E`  
 > **성숙도 / 상태:** `PoC 단계` (2026년 하반기 오픈소스 릴리즈, 생태계 확장 중)  
