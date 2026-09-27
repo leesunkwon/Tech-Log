@@ -1,7 +1,7 @@
 # TypeSafe AI: Jev - 비생성형(Non-Autoregressive) System 1 결정 추론 모델
 
 > **작성일:** 2026-09-21  
-> **작성자 / 리뷰어:** Tech Archive Curator  
+> **작성자 / 리뷰어:** 이선권 / Android·AI
 > **기술 분류:** `AI/ML` | `Backend` | `Architecture`  
 > **태그:** `#TypeSafeAI` `#Jev` `#System1Model` `#NonAutoregressive` `#AgentArchitecture` `#CostOptimization`  
 > **성숙도 / 상태:** `PoC 단계` / `프로덕션 준비(Production-Ready)`  
