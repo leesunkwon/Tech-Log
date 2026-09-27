@@ -1,7 +1,8 @@
 # Google Agent Development Kit (ADK) for Kotlin - 엔터프라이즈 및 온디바이스/하이브리드 환경을 위한 코드 우선(Code-First) 멀티 에이전트 프레임워크
 
 > **작성일:** 2026-09-22  
-> **작성자 / 리뷰어:** Tech Archive Curator  
+> **작성자 / 리뷰어:** 이선권 / Android·AI
+> 
 > **기술 분류:** `AI/ML` | `Backend` | `Mobile` | `Architecture`  
 > **태그:** `#GoogleADK` `#ADKKotlin` `#AIAgent` `#MultiAgent` `#LiteRTLM` `#AndroidAI` `#OnDeviceAI` `#KSP` `#Gemini`  
 > **성숙도 / 상태:** `프로덕션 준비(Production-Ready)` (v1.1.0 GA 릴리스)  
