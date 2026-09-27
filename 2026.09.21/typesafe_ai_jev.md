@@ -2,6 +2,7 @@
 
 > **작성일:** 2026-09-21  
 > **작성자 / 리뷰어:** 이선권 / Android·AI
+> 
 > **기술 분류:** `AI/ML` | `Backend` | `Architecture`  
 > **태그:** `#TypeSafeAI` `#Jev` `#System1Model` `#NonAutoregressive` `#AgentArchitecture` `#CostOptimization`  
 > **성숙도 / 상태:** `PoC 단계` / `프로덕션 준비(Production-Ready)`  
